@@ -1,0 +1,2 @@
+CHANGED,C:\Users\user\AndroidStudioProjects\App Diarista\Limpo - Diarista\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\br\com\diaristaslimpo\limpo\Controler\telas\TelaDetalheSolicitacao.class
+CHANGED,C:\Users\user\AndroidStudioProjects\App Diarista\Limpo - Diarista\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\br\com\diaristaslimpo\limpo\Controler\telas\TelaLogin.class

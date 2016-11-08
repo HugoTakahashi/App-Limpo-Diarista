@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_salva_cadastro1.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\src\\main\\res\\menu\\menu_salva_cadastro1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_salva_cadastro1.xml",
+        "source": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\src\\main\\res\\menu\\menu_salva_cadastro1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_salva_endereco.xml",
+        "source": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\src\\main\\res\\menu\\menu_salva_endereco.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_salva_altera_dados.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\src\\main\\res\\menu\\menu_salva_altera_dados.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_tela_inicial_drawer.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\src\\main\\res\\menu\\activity_tela_inicial_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tela_inicial.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\src\\main\\res\\menu\\tela_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_salva_altera_dados.xml",
+        "source": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\src\\main\\res\\menu\\menu_salva_altera_dados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_tela_inicial_drawer.xml",
+        "source": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\src\\main\\res\\menu\\activity_tela_inicial_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tela_inicial.xml",
+        "source": "C:\\Users\\Hugo\\Downloads\\Limpo - Diarista\\app\\src\\main\\res\\menu\\tela_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_salva_endereco.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\App Diarista\\Limpo - Diarista\\app\\src\\main\\res\\menu\\menu_salva_endereco.xml"
+    }
+]

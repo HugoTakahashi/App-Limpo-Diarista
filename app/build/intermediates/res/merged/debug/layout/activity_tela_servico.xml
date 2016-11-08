@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app2="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Controler.telas.TelaServico"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="137dp">
+
+        <ImageButton
+            android:layout_width="370dp"
+            android:layout_height="130dp"
+            android:id="@+id/bt_limpeza"
+            android:layout_weight="1"
+            android:background="#DCDCDC"
+            android:elevation="0dp"
+            android:layout_margin="2dp"
+            android:src="@drawable/limpeza_3" />
+
+        <ImageButton
+            android:layout_width="178dp"
+            android:layout_height="130dp"
+            android:id="@+id/bt_passarroupa"
+            android:background="#DCDCDC"
+            android:layout_margin="2dp"
+            android:src="@drawable/passar_roupa_5" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="137dp">
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/bt_lavarroupa"
+            android:background="#DCDCDC"
+            android:src="@drawable/lavar_roupa_3"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Observações: "
+            android:id="@+id/tx_outros" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/edt_outros" />
+
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/btData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#c60b2d"
+        android:text="Escolher Data"
+        android:textColor="#fffefe" />
+
+</LinearLayout>

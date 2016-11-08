@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxxhdpi"
+    format="7"
+    timestamp="9179511560539"
+    token="1623005927247009427" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\user\AndroidStudioProjects\App Diarista\Limpo - Diarista\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="8317001736030" >
+        <artifact
+            location="C:\Users\user\AndroidStudioProjects\App Diarista\Limpo - Diarista\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="8552538695067"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\user\AndroidStudioProjects\App Diarista\Limpo - Diarista\app\build\intermediates\builds\debug\8552538695067\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="9179511560539" >
+        <artifact
+            location="C:\Users\user\AndroidStudioProjects\App Diarista\Limpo - Diarista\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
